@@ -3,7 +3,7 @@
 
 An interactive Streamlit app for **modern portfolio optimization** using historical data and Markowitz theory to construct an efficient investment portfolio tailored to your return requirements and risk appetite.
 
-🔗 **Try it live:** [modernportfolio.streamlit.app](https://modernportfolio.streamlit.app/)
+🔗 **Try it live:** [https://intelligentportfolio.streamlit.app/)
 
 ---
 
@@ -46,7 +46,7 @@ Using the **Markowitz Mean-Variance Optimization framework**, the app computes t
 ## 🌐 Try It Now
 
 📍 **Live App**:  
-👉 [https://modernportfolio.streamlit.app/](https://modernportfolio.streamlit.app/)
+👉 [https://intelligentportfolio.streamlit.app/)
 
 ---
 
@@ -66,3 +66,4 @@ Using the **Markowitz Mean-Variance Optimization framework**, the app computes t
 - Include Sharpe Ratio filtering and constraints (e.g., max weight per asset)
 - Allow users to upload their own fund return data
 - Add Monte Carlo simulation for return projections
+
